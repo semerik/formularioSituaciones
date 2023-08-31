@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Constraint Layout</string>
+    <string name="to">To: </string>
+    <string name="correo">Enter email address</string>
+    <string name="asunto">Subject</string>
+    <string name="mensaje">Message</string>
+    <string name="enviar">Send</string>
+    <string name="situacionesText">Tipo de situacion</string>
+
+    <string-array name="tiposIncidentes">
+        <item>siniestro vial</item>
+        <item>señalizacion</item>
+        <item>Movilidad</item>
+    </string-array>
+
+</resources>
